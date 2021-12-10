@@ -1,0 +1,16 @@
+{
+  "name": "nano",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "vite": "^2.7.0"
+  },
+  "dependencies": {
+    "nano-jsx": "^0.0.26"
+  }
+}
