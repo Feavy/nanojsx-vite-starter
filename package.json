@@ -11,6 +11,7 @@
     "vite": "^2.7.0"
   },
   "dependencies": {
+    "@types/node": "^16.11.12",
     "nano-jsx": "^0.0.26"
   }
 }
